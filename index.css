@@ -1,0 +1,33 @@
+nav>img{
+    width:50px;
+    height:50px;
+    
+}
+li{
+    list-style: none;
+    padding: 5px;
+
+}
+.cardbox{
+    height: 250px;
+    width:150px ;
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(168, 199, 168);
+}
+   
+   
+
+.content-img{
+    height:130px;
+   
+
+}
+body{
+   background-color: rgb(143, 188, 143);
+}
+/* nav{
+    position: fixed;
+    width:100%;
+} */
+
