@@ -8,26 +8,28 @@ li{
     padding: 5px;
 
 }
+
+ 
+ 
 .cardbox{
     height: 250px;
     width:150px ;
     display: flex;
     flex-direction: column;
-    background-color:rgb(168, 199, 168);
+    background-color:rgb(225, 238, 241);
+    box-shadow:2px 2px 2px gray;
 }
    
    
-
-.content-img{
-    height:130px;
+ 
    
 
-}
+
 body{
-   background-color: rgb(143, 188, 143);
+   background-color: rgb(11, 95, 11);
 }
-/* nav{
-    position: fixed;
-    width:100%;
-} */
-
+  /* nav{
+     position: fixed;
+    width:100%; 
+ } 
+   */
