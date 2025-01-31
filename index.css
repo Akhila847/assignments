@@ -16,20 +16,25 @@ li{
     width:150px ;
     display: flex;
     flex-direction: column;
-    background-color:rgb(225, 238, 241);
+     background-color:rgb(225, 238, 241); 
     box-shadow:2px 2px 2px gray;
 }
    
-   
+ .content-img{
+    /* background-size: contain; */
+    object-fit: contain;
+    background-color:#fff; 
+ }  
  
-   
-
-
-body{
-   background-color: rgb(11, 95, 11);
+.main-container{
+    margin-top:80px;
 }
-  /* nav{
+
+
+
+   nav{
      position: fixed;
     width:100%; 
+    top:0 ;
  } 
-   */
+   
